@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801218812454",
+    "project_id": "coounterswipe",
+    "storage_bucket": "coounterswipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801218812454:android:2c0d953aca28eb296524e7",
+        "android_client_info": {
+          "package_name": "com.example.counterswipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801218812454-4uqveo2a22lk1os8ri9638esfshk3hjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lvd24TBODi09wxXSgQnrs7fEmkfzMCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801218812454-4uqveo2a22lk1os8ri9638esfshk3hjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
